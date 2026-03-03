@@ -1,0 +1,20 @@
+** Keyboard input:
+1
+79th
+1
+%79th%
+1
+lake%
+1
+Addison St
+1
+%th___
+1
+%north%
+1
+%st___
+1
+%ave%
+1
+%
+x
